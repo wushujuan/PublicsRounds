@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\xml\\config_network.xml",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\xml\\config_network.xml"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\xml\\regionborder.xml",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\xml\\regionborder.xml"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\xml\\bg_border1.xml",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\xml\\bg_border1.xml"
+    }
+]

@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="300dp"
+    android:layout_height="400dp"
+    android:layout_gravity="center"
+    android:orientation="vertical"
+    tools:context="cn.breaksky.rounds.publics.activity.ReciverActivity" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/reciver_bg"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/reciver_context"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="@string/reciver_context"
+                    android:textColor="@color/black"
+                    android:textSize="18sp" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:orientation="horizontal" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text="@string/reciver_log"
+                        android:textColor="@color/grey"
+                        android:textSize="12sp" />
+
+                    <TextView
+                        android:id="@+id/reciver_longitude"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="left"
+                        android:text="104.06"
+                        android:textColor="@color/grey"
+                        android:textSize="12sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:orientation="horizontal" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text="@string/reciver_lat"
+                        android:textColor="@color/grey"
+                        android:textSize="12sp" />
+
+                    <TextView
+                        android:id="@+id/reciver_latitude"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="left"
+                        android:text="30.67"
+                        android:textColor="@color/grey"
+                        android:textSize="12sp" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <!-- 语音报警 -->
+
+            <RelativeLayout
+                android:id="@+id/reciver_voice_layout"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="60dp"
+                android:visibility="gone" >
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:gravity="center_horizontal" >
+
+                    <ProgressBar
+                        android:id="@+id/reciver_voice_bar"
+                        style="?android:attr/progressBarStyleHorizontal"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="140dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:gravity="center_horizontal" >
+
+                    <TextView
+                        android:id="@+id/reciver_voice_text"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="90dp"
+                        android:gravity="center_horizontal"
+                        android:text="@string/voice_text"
+                        android:textColor="@color/black"
+                        android:textSize="26dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:gravity="center_horizontal" >
+
+                    <ImageButton
+                        android:id="@+id/reciver_voice_recording_button"
+                        android:layout_width="60dp"
+                        android:layout_height="60dp"
+                        android:background="#00000000"
+                        android:contentDescription="@string/voice_recording_button"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/voice_recording" />
+                </LinearLayout>
+            </RelativeLayout>
+
+            <!-- 图片报警 -->
+
+            <RelativeLayout
+                android:id="@+id/reciver_photo_layout"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="60dp"
+                android:visibility="gone" >
+
+                <RelativeLayout
+                    android:id="@+id/reciver_photo_camera_view"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content" />
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:gravity="center_horizontal" >
+
+                    <ImageButton
+                        android:id="@+id/reciver_photo_button"
+                        android:layout_width="60dp"
+                        android:layout_height="60dp"
+                        android:background="#00000000"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/camera_photo" />
+                </LinearLayout>
+            </RelativeLayout>
+
+            <!-- 视频报警 -->
+
+            <RelativeLayout
+                android:id="@+id/reciver_video_layout"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="60dp"
+                android:visibility="visible" >
+
+                <RelativeLayout
+                    android:id="@+id/reciver_video_camera_view"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content" />
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:orientation="vertical"
+                    android:gravity="center" >
+
+                    <RelativeLayout
+                        android:id="@+id/reciver_video_button_layout"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:visibility="gone" >
+
+                        <ImageButton
+                            android:id="@+id/reciver_video_button"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:background="#00000000"
+                            android:scaleType="fitXY"
+                            android:src="@drawable/video" />
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:id="@+id/reciver_video_timeout_layout"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:visibility="gone" >
+
+                        <TextView
+                            android:id="@+id/reciver_video_timeout"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/reciver_timeout"
+                            android:textColor="@color/red"
+                            android:textSize="20sp" />
+                    </RelativeLayout>
+                </LinearLayout>
+            </RelativeLayout>
+
+            <!-- 修改密码 -->
+
+            <RelativeLayout
+                android:id="@+id/reciver_password_layout"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="60dp"
+                android:visibility="gone" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:orientation="horizontal" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="80dp"
+                        android:gravity="center"
+                        android:text="@string/reciver_password"
+                        android:textColor="@color/black"
+                        android:textSize="20sp" />
+
+                    <EditText
+                        android:id="@+id/reciver_password_text"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="80dp"
+                        android:inputType="textVisiblePassword"
+                        android:singleLine="true" >
+                    </EditText>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:gravity="center_horizontal" >
+
+                    <Button
+                        android:id="@+id/reciver_password_button"
+                        android:layout_width="match_parent"
+                        android:layout_height="35dp"
+                        android:layout_gravity="right"
+                        android:background="@drawable/login_button_bg"
+                        android:text="@string/reciver_password_button"
+                        android:textColor="@color/white" />
+                </LinearLayout>
+            </RelativeLayout>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="15dp"
+            android:gravity="right" >
+
+            <ImageButton
+                android:id="@+id/reciver_close_button"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:background="#00000000"
+                android:scaleType="fitXY"
+                android:src="@drawable/close" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+</LinearLayout>

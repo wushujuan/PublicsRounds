@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/MyAdapter/CallListAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/MyAdapter/GroupUser.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/RoundsConfig.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/activity/CallActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/activity/CallListActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/activity/ConfigActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/activity/EventActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/activity/EventProcessActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/activity/GatherActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/activity/GatherListActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/activity/MainActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/activity/MapActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/activity/MapCordinatesActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/activity/MapShowActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/activity/NewsActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/activity/PersonInfoActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/activity/ReciverActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/activity/RegisterAcitvity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/activity/ReportActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/activity/ReportHistoryActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/activity/ScanImageActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/activity/SoftUpdate.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/activity/TextViewTouchColorListener.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/activity/VoiceActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/activity/WelcomeActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/db/DBHelper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/handler/RoundHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/listener/BaseStationListener.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/listener/EventListener.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/listener/GPSListener.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/listener/LocalGPSListener.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/listener/Login.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/listener/MessageListener.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/listener/MessageObj.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/listener/ReportListener.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/listener/RoundListener.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/listener/position/GpsTask.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/map/BasicMapActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/map/Point.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/map/baidu/BaiduMapActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/map/tianditu/LineOverlay.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/map/tianditu/TiandituMap.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/services/ListenerJobService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/services/ListenerService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/services/ListenerServiceReciver.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/services/MainService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/util/BitmapUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/util/CItem.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/util/CameraView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/util/DoPersonnel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/util/MessageShow.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/util/UtilTools.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/util/VoiceUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/util/imageselector/ImageSelectorFragment.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/util/imageselector/adapter/FolderAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/util/imageselector/adapter/ImageAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/util/regionselector/RegionSelector.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/util/request/HttpPostUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/util/request/Params.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/util/request/TCPSocket.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/breaksky/rounds/publics/util/request/callback/SendRetJsonThread.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

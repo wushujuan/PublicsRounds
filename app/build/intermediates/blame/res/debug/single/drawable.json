@@ -1,0 +1,578 @@
+[
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_ico_launcher.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\app_ico_launcher.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5864429ab938d714529caf4f9f53316afe87ddbe\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5864429ab938d714529caf4f9f53316afe87ddbe\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\color_yellow.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\color_yellow.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_gcoding.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\icon_gcoding.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5864429ab938d714529caf4f9f53316afe87ddbe\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\map.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\map.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5864429ab938d714529caf4f9f53316afe87ddbe\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5864429ab938d714529caf4f9f53316afe87ddbe\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5864429ab938d714529caf4f9f53316afe87ddbe\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5864429ab938d714529caf4f9f53316afe87ddbe\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\voice2_touch.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\voice2_touch.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\title_bg.9.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\title_bg.9.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\event_process.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\event_process.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_bg.xml",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\list_bg.xml"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5864429ab938d714529caf4f9f53316afe87ddbe\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\carinhormigas.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\carinhormigas.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\message_touch.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\message_touch.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\person_info_touch.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\person_info_touch.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\voice2.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\voice2.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5864429ab938d714529caf4f9f53316afe87ddbe\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_click_bg_selector.xml",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\item_click_bg_selector.xml"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5864429ab938d714529caf4f9f53316afe87ddbe\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\reciver_bg.9.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\reciver_bg.9.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5864429ab938d714529caf4f9f53316afe87ddbe\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_click_bg_selectorto.xml",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\item_click_bg_selectorto.xml"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\color_white.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\color_white.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_info_bg.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\login_info_bg.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bar_wait.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\bar_wait.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5864429ab938d714529caf4f9f53316afe87ddbe\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\person_info.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\person_info.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5864429ab938d714529caf4f9f53316afe87ddbe\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cordinates.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\cordinates.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\send.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\send.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\feedback_left_dialog_bg.9.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\feedback_left_dialog_bg.9.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\color_green.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\color_green.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5864429ab938d714529caf4f9f53316afe87ddbe\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\call_touch.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\call_touch.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5864429ab938d714529caf4f9f53316afe87ddbe\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\voice.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\voice.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5864429ab938d714529caf4f9f53316afe87ddbe\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\voice_touch.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\voice_touch.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camera_view.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\camera_view.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cordinates_touch.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\cordinates_touch.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\map_touch.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\map_touch.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5864429ab938d714529caf4f9f53316afe87ddbe\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gather.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\gather.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5864429ab938d714529caf4f9f53316afe87ddbe\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\phone_touch.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\phone_touch.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\exit_touch.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\exit_touch.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\setting.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\setting.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_button_bg.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\login_button_bg.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\voice_min_touch.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\voice_min_touch.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\exit.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\exit.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\locatie_normal.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\locatie_normal.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\addfile.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\addfile.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\password_input.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\password_input.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\zoonout_touch.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\zoonout_touch.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\imageselector_select_photo.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\imageselector_select_photo.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\callhead.jpg",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\callhead.jpg"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5864429ab938d714529caf4f9f53316afe87ddbe\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5864429ab938d714529caf4f9f53316afe87ddbe\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5864429ab938d714529caf4f9f53316afe87ddbe\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\imageselector_selected.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\imageselector_selected.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\reflash.gif",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\reflash.gif"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5864429ab938d714529caf4f9f53316afe87ddbe\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\voice_min.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\voice_min.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\view_photo_touch.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\view_photo_touch.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_st.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\icon_st.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\imageselector_photo.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\imageselector_photo.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5864429ab938d714529caf4f9f53316afe87ddbe\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\title_bg_source.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\title_bg_source.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\locatie_pressed.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\locatie_pressed.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox.xml",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\checkbox.xml"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5864429ab938d714529caf4f9f53316afe87ddbe\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5864429ab938d714529caf4f9f53316afe87ddbe\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\event_touch.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\event_touch.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5864429ab938d714529caf4f9f53316afe87ddbe\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\feedback_right_dialog_bg.9.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\feedback_right_dialog_bg.9.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\phone.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\phone.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\maker.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\maker.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_ico.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\app_ico.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5864429ab938d714529caf4f9f53316afe87ddbe\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\username_input.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\username_input.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\imageselector_select_album.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\imageselector_select_album.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\reciver_bg_source.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\reciver_bg_source.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\call.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\call.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\setting_item_single_pressed.9.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\setting_item_single_pressed.9.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\region_close.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\region_close.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\video_touch.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\video_touch.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\register_image.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\register_image.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5864429ab938d714529caf4f9f53316afe87ddbe\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5864429ab938d714529caf4f9f53316afe87ddbe\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5864429ab938d714529caf4f9f53316afe87ddbe\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camera_photo_touch.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\camera_photo_touch.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\update.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\update.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\send_touch.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\send_touch.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\zoonout.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\zoonout.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\region_open.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\region_open.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\maker_small.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\maker_small.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\event.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\event.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camera.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\camera.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_true.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\checkbox_true.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5864429ab938d714529caf4f9f53316afe87ddbe\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\photo.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\photo.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\message.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\message.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camera_photo.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\camera_photo.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\setting_touch.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\setting_touch.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\imageselector_back.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\imageselector_back.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\video.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\video.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camera_touch.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\camera_touch.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\close_touch.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\close_touch.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\marker_blue.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\marker_blue.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\zoonin.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\zoonin.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5864429ab938d714529caf4f9f53316afe87ddbe\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\voice_recording_touch.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\voice_recording_touch.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\imageselector_select_uncheck.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\imageselector_select_uncheck.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\background.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vector.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\vector.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\close.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\close.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_button_bg_touch.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\login_button_bg_touch.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\addfile_touch.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\addfile_touch.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_false.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\checkbox_false.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\event_process_touch.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\event_process_touch.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_ib_locate.xml",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\selector_ib_locate.xml"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5864429ab938d714529caf4f9f53316afe87ddbe\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_log.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\main_log.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\imageselector_select_checked.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\imageselector_select_checked.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5864429ab938d714529caf4f9f53316afe87ddbe\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5864429ab938d714529caf4f9f53316afe87ddbe\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cordinates_marker.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\cordinates_marker.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\play_touch.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\play_touch.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\view_photo.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\view_photo.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5864429ab938d714529caf4f9f53316afe87ddbe\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\play.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\play.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\markers_red.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\markers_red.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5864429ab938d714529caf4f9f53316afe87ddbe\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\voice_recording.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\voice_recording.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gather_touch.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\gather_touch.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\satellite.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\satellite.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\zoonin_touch.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\zoonin_touch.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bar_faile.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\bar_faile.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bar_complete.png",
+        "source": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\src\\main\\res\\drawable\\bar_complete.png"
+    },
+    {
+        "merged": "F:\\android\\AndroidStudioProjects\\PublicsRounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5864429ab938d714529caf4f9f53316afe87ddbe\\output\\res\\drawable\\notification_bg.xml"
+    }
+]

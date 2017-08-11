@@ -1,0 +1,26 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <PreferenceCategory
+        android:layout_marginTop="40dp"
+        android:title="@string/title_network" >
+        <EditTextPreference
+            android:key="@string/thread_check_time_key"
+            android:singleLine="true"
+            android:title="@string/thread_check_time_title" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/title_gis" >
+        <EditTextPreference
+            android:key="@string/gps_check_key"
+            android:singleLine="true"
+            android:title="@string/gps_check_time_title" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/title_cache" >
+        <CheckBoxPreference
+            android:key="@string/cache_checkbox_key"
+            android:title="@string/cache_checkbox" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/title_system" >
+        <CheckBoxPreference
+            android:key="@string/autorun_checkbox_key"
+            android:title="@string/autorun_checkbox" />
+    </PreferenceCategory>
+</PreferenceScreen>

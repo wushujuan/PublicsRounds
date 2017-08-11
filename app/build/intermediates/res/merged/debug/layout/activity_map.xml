@@ -1,0 +1,125 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/window_bg"
+    tools:context="cn.breaksky.rounds.publics.activity.MapActivity" >
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@drawable/title_bg"
+        android:gravity="left|center"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/map_show_back_button"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_margin="2dp"
+            android:gravity="center_vertical"
+            android:padding="2dp"
+            android:text="@string/title_back"
+            android:textColor="@color/white"
+            android:textSize="18dp" >
+        </TextView>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:text="@string/title_map_show"
+                android:textSize="18dp" >
+            </TextView>
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/map_show_work_button"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="right"
+            android:layout_margin="2dp"
+            android:gravity="center_vertical"
+            android:padding="2dp"
+            android:text="@string/map_show_work_button"
+            android:textColor="@color/white"
+            android:textSize="18dp" >
+        </TextView>
+    </FrameLayout>
+
+    <!-- 地图显示 -->
+
+    <RelativeLayout
+        android:id="@+id/map_show"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="45dp" >
+
+        <RelativeLayout
+            android:id="@+id/map_layout"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_margin="5dp"
+            android:gravity="right|bottom"
+            android:orientation="vertical" >
+
+            <ImageButton
+                android:id="@+id/zoomin"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:background="#00000000"
+                android:scaleType="fitXY"
+                android:src="@drawable/zoonin" />
+
+            <ImageButton
+                android:id="@+id/zoomout"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginTop="3dp"
+                android:background="#00000000"
+                android:scaleType="fitXY"
+                android:src="@drawable/zoonout" />
+
+            <ImageButton
+                android:id="@+id/layer"
+                android:layout_width="87dp"
+                android:layout_height="62dp"
+                android:layout_marginTop="10dp"
+                android:background="#00000000"
+                android:scaleType="fitXY"
+                android:src="@drawable/satellite" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="45dp" >
+
+        <CheckBox
+            android:id="@+id/show_gps_point"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="false"
+            android:text="@string/map_show_gps_point"
+            android:textColor="@color/black" />
+
+        <CheckBox
+            android:id="@+id/show_work_status"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="false"
+            android:text="@string/map_show_work"
+            android:textColor="@color/black" />
+    </LinearLayout>
+
+</FrameLayout>

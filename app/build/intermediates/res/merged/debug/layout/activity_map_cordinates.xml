@@ -1,0 +1,93 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/window_bg"
+    tools:context="cn.breaksky.rounds.publics.activity.MapCordinatesActivity" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <RelativeLayout
+            android:id="@+id/map_cordinates_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_margin="5dp"
+            android:gravity="right|bottom"
+            android:orientation="vertical" >
+
+            <ImageButton
+                android:id="@+id/map_cordinates_zoomin"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:background="#00000000"
+                android:scaleType="fitXY"
+                android:src="@drawable/zoonin" />
+
+            <ImageButton
+                android:id="@+id/map_cordinates_zoomout"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginTop="3dp"
+                android:background="#00000000"
+                android:scaleType="fitXY"
+                android:src="@drawable/zoonout" />
+
+            <ImageButton
+                android:id="@+id/map_cordinates_layer"
+                android:layout_width="87dp"
+                android:layout_height="62dp"
+                android:layout_marginTop="10dp"
+                android:background="#00000000"
+                android:scaleType="fitXY"
+                android:src="@drawable/satellite" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_margin="5dp"
+        android:gravity="center|top" >
+
+        <Button
+            android:id="@+id/map_cordinates_cancel_button"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_gravity="right"
+            android:layout_weight="1"
+            android:background="@drawable/login_button_bg"
+            android:text="@string/map_cordinates_cancel_button"
+            android:textColor="@color/white" />
+
+        <Button
+            android:id="@+id/map_cordinates_submit_button"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_gravity="right"
+            android:layout_marginLeft="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/login_button_bg"
+            android:text="@string/map_cordinates_submit_button"
+            android:textColor="@color/white" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/map_cordinates_marker"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center|center" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/cordinates_marker" >
+        </ImageView>
+    </LinearLayout>
+
+</FrameLayout>

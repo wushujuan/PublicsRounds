@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/message_show_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/window_bg"
+    tools:context="cn.breaksky.rounds.publics.activity.CallActivity" >
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@drawable/title_bg"
+        android:gravity="left|center"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/call_back_button"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_margin="2dp"
+            android:gravity="center_vertical"
+            android:padding="2dp"
+            android:text="@string/title_back"
+            android:textColor="@color/white"
+            android:textSize="18dp" >
+        </TextView>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/title_call"
+                android:textSize="18dp" >
+            </TextView>
+            <TextView
+                 android:id="@+id/call_personnel_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/call_personnel_name"
+                android:textSize="8dp" >
+            </TextView>
+        </LinearLayout>
+        
+        <!-- <TextView
+            android:id="@+id/call_personnel_button"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="right"
+            android:layout_margin="2dp"
+            android:gravity="center_vertical"
+            android:padding="2dp"
+            android:text="@string/call_personnel"
+            android:textColor="@color/white"
+            android:textSize="18dp" >
+        </TextView> -->
+    </FrameLayout>
+    
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="40dp"
+        android:orientation="vertical" >
+
+        <cn.breaksky.rounds.publics.bean.MessageScrollView
+            android:id="@+id/message_scroll_view"
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="2" >
+
+            <LinearLayout
+                android:id="@+id/message_view"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+            </LinearLayout>
+        </cn.breaksky.rounds.publics.bean.MessageScrollView>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_marginBottom="7dp"
+            android:baselineAligned="false"
+            android:orientation="horizontal" >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="7dp"
+                android:orientation="horizontal" >
+
+                <ImageButton
+                    android:id="@+id/message_addfile_button"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:background="#00000000"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/addfile" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="7dp"
+                android:layout_weight="2" >
+
+                <EditText
+                    android:id="@+id/message_info"
+                    android:layout_width="fill_parent"
+                    android:layout_height="50dp"
+                    android:layout_gravity="left|center_vertical"
+                    android:inputType="text" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="7dp" >
+
+                <ImageButton
+                    android:id="@+id/message_send_button"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="left|center_vertical"
+                    android:background="#00000000"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/send" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="200dp"
+        android:layout_height="70dp"
+        android:id="@+id/message_add_file_layout"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:gravity="center_horizontal|center_vertical"
+        android:layout_marginBottom="60dp"
+        android:background="@drawable/setting_item_single_pressed"
+        android:orientation="horizontal"
+        android:visibility="gone">
+
+        <ImageButton
+            android:id="@+id/message_photo_button"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:background="#00000000"
+            android:scaleType="fitXY"
+            android:layout_marginRight="10dp"
+            android:src="@drawable/camera" />
+
+        <ImageButton
+            android:id="@+id/message_voice_button"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:background="#00000000"
+            android:layout_marginRight="3dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/voice" />
+        
+<!--         <ImageButton -->
+<!--             android:id="@+id/message_fire_button" -->
+<!--             android:layout_width="50dp" -->
+<!--             android:layout_height="50dp" -->
+<!--             android:background="#00000000" -->
+<!--              android:layout_marginRight="3dp" -->
+<!--             android:scaleType="fitXY" -->
+<!--             android:src="@drawable/cordinates" /> -->
+    </LinearLayout>
+
+</RelativeLayout>

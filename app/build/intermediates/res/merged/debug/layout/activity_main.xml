@@ -1,0 +1,181 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context="cn.breaksky.rounds.publics.activity.MainActivity" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#00000000"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="288dp"
+            android:layout_height="384dp"
+            android:background="#00000000"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" >
+
+                <ImageButton
+                    android:id="@+id/main_setting_button"
+                    android:layout_width="96dp"
+                    android:layout_height="80dp"
+                    android:background="#00000000"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/setting" />
+
+                <ImageButton
+                    android:id="@+id/main_event_button"
+                    android:layout_width="96dp"
+                    android:layout_height="80dp"
+                    android:background="#00000000"
+
+                    android:scaleType="fitXY"
+                    android:src="@drawable/event" />
+
+                <ImageButton
+                    android:id="@+id/main_event_process_button"
+                    android:layout_width="96dp"
+                    android:layout_height="80dp"
+                   
+                    android:background="#00000000"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/event_process" />
+                
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" >
+               <ImageButton
+                    android:id="@+id/main_gather_button"
+                    android:layout_width="96dp"
+                    android:layout_height="80dp"
+                  
+                    android:background="#00000000"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/gather" />
+               
+
+                <ImageButton
+                    android:id="@+id/main_message_button"
+                    android:layout_width="96dp"
+                    android:layout_height="80dp"
+                   
+                    android:background="#00000000"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/message" />
+
+                <ImageButton
+                    android:id="@+id/main_phone_button"
+                    android:layout_width="96dp"
+                    android:layout_height="80dp"
+                   
+                    android:background="#00000000"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/phone" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                    <ImageButton
+                    android:id="@+id/main_map_button"
+                    android:layout_width="96dp"
+                    android:layout_height="80dp"
+                    android:background="#00000000"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/map" />
+               
+                <ImageButton
+                    android:id="@+id/main_call_button"
+                    android:layout_width="96dp"
+                    android:layout_height="80dp"
+                    
+                    android:background="#00000000"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/call" />
+                <ImageButton
+                    android:id="@+id/main_person_info_button"
+                    android:layout_width="96dp"
+                    android:layout_height="80dp"
+                    android:background="#00000000"
+                    
+                    android:scaleType="fitXY"
+                    android:src="@drawable/person_info" />
+            </LinearLayout>
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <ImageButton
+                    android:id="@+id/main_exit_button"
+                    android:layout_width="96dp"
+                    android:layout_height="80dp"
+                    android:background="#00000000"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/exit" />
+            </RelativeLayout>
+        </LinearLayout>
+    </LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingLeft="10dp"
+        android:paddingTop="10dp" >
+
+        <ImageView
+            android:layout_width="500dp"
+            android:layout_height="120dp"
+            android:background="@drawable/main_log"
+            android:contentDescription="@string/empty_str" />
+
+        <TextView
+            android:id="@+id/main_app_version"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left|center"
+            android:text=""
+            android:textColor="#FFFFFF"
+            android:textSize="14sp"
+            android:typeface="serif" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_alignParentBottom="true"
+            android:gravity="center|center"
+            android:paddingBottom="20dp"
+            android:text="@string/app_copyright"
+            android:textColor="#FFFFFF"
+            android:textSize="12sp"
+            android:typeface="serif" />
+
+        <TextView
+            android:id="@+id/main_app_message"
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:layout_alignParentBottom="true"
+            android:text=""
+            android:textColor="#FFFFFF"
+            android:textSize="12sp"
+            android:typeface="serif" />
+    </RelativeLayout>
+
+</FrameLayout>

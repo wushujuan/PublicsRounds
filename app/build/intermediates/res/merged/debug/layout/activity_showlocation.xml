@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+		        <LinearLayout
+		            android:id="@+id/llMLMain"
+		            android:layout_width="match_parent"
+		            android:layout_height="match_parent"
+		            android:orientation="vertical" >
+		
+		            <FrameLayout
+		                android:layout_width="match_parent"
+		                android:layout_height="0dp"
+		                android:layout_weight="1" >
+		
+		                <com.baidu.mapapi.map.MapView
+		                    android:id="@+id/showlocation_mapView"
+		                    android:layout_width="match_parent"
+		                    android:layout_height="match_parent"
+		                    android:clickable="true" />
+		
+		               
+		                
+		            </FrameLayout>
+		
+		            
+		        </LinearLayout>
+		
+		       <LinearLayout
+		        android:layout_width="match_parent"
+		        android:layout_height="30dp"
+		        android:layout_margin="5dp"
+		        android:gravity="center|top" >
+		
+		        <Button
+		            android:id="@+id/showlocation_cancel_button"
+		            android:layout_width="0dp"
+		            android:layout_height="fill_parent"
+		            android:layout_gravity="right"
+		            android:layout_weight="1"
+		            android:background="@drawable/login_button_bg"
+		            android:text="返回"
+		            android:textColor="@color/white" />
+		
+		        
+		    </LinearLayout>  
+
+ 
+    </RelativeLayout>
+
+</LinearLayout>

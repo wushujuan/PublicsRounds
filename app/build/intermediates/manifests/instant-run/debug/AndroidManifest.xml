@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="cn.breaksky.rounds.publics"
+    android:versionCode="3"
+    android:versionName="3.1" >
+
+    <uses-sdk
+        android:maxSdkVersion="23"
+        android:minSdkVersion="17"
+        android:targetSdkVersion="26" />
+
+    <!-- 百度 -->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <!-- 默认 -->
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <!--  -->
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.BROADCAST_STICKY" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <!-- Camera -->
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="true" />
+    <uses-feature
+        android:name="android.hardware.camera.autofocus"
+        android:required="true" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="26.0.0-alpha1" /> <!-- application -->
+    <application
+        android:name="cn.breaksky.rounds.publics.ContextManager"
+        android:allowBackup="true"
+        android:enabled="true"
+        android:icon="@drawable/app_ico_launcher"
+        android:label="@string/app_ico_name"
+        android:theme="@style/AppTheme" >
+
+        <!-- 欢迎 -->
+        <activity
+            android:name="cn.breaksky.rounds.publics.activity.WelcomeActivity"
+            android:process=":listener" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <!-- 主界面 -->
+        <activity
+            android:name="cn.breaksky.rounds.publics.activity.MainActivity"
+            android:process=":listener" />
+        <!-- 配置 -->
+        <activity
+            android:name="cn.breaksky.rounds.publics.activity.ConfigActivity"
+            android:label="@string/title_activity_config"
+            android:process=":listener" >
+        </activity>
+        <!-- 注册 -->
+        <activity
+            android:name="cn.breaksky.rounds.publics.activity.RegisterAcitvity"
+            android:process=":listener"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" />
+        <!-- 日常巡查界面 -->
+        <activity
+            android:name="cn.breaksky.rounds.publics.activity.ReportActivity"
+            android:process=":listener"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" />
+        <!-- 日常巡查历史查看界面,Activity显示为对话框模式 -->
+        <activity
+            android:name="cn.breaksky.rounds.publics.activity.ReportHistoryActivity"
+            android:label="历史记录"
+            android:process=":listener"
+            android:theme="@android:style/Theme.Dialog" />
+        <!-- 灾害报警 -->
+        <activity
+            android:name="cn.breaksky.rounds.publics.activity.EventActivity"
+            android:process=":listener"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" />
+        <!-- 报警处理 -->
+        <activity
+            android:name="cn.breaksky.rounds.publics.activity.EventProcessActivity"
+            android:process=":listener"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" />
+        <!-- 报警图片查看 -->
+        <activity
+            android:name="cn.breaksky.rounds.publics.activity.ScanImageActivity"
+            android:process=":listener" />
+        <!-- 地图定位 -->
+        <activity
+            android:name="cn.breaksky.rounds.publics.activity.MapCordinatesActivity"
+            android:process=":listener" />
+        <!-- 地图 -->
+        <activity
+            android:name="cn.breaksky.rounds.publics.activity.MapActivity"
+            android:process=":listener" />
+        <!-- 公告预警 -->
+        <activity
+            android:name="cn.breaksky.rounds.publics.activity.MessageActivity"
+            android:process=":listener" />
+        <!-- 公告预警新闻页面 -->
+        <activity
+            android:name="cn.breaksky.rounds.publics.activity.NewsActivity"
+            android:process=":listener" />
+
+        <!-- 人员信息 -->
+        <activity
+            android:name="cn.breaksky.rounds.publics.activity.PersonInfoActivity"
+            android:process=":listener" />
+        <!-- 查询所有成员 -->
+        <activity
+            android:name="cn.breaksky.rounds.publics.activity.CheckPersonActivity"
+            android:process=":listener" />
+        <!-- 地图定位显示 -->
+        <activity
+            android:name="cn.breaksky.rounds.publics.activity.MapShowActivity"
+            android:process=":listener" />
+        <!-- 采集 -->
+        <activity
+            android:name="cn.breaksky.rounds.publics.activity.GatherActivity"
+            android:process=":listener" />
+        <!-- 采集任务列表 -->
+        <activity
+            android:name="cn.breaksky.rounds.publics.activity.GatherListActivity"
+            android:process=":listener" />
+        <!-- 图片选择 -->
+        <activity
+            android:name="cn.breaksky.rounds.publics.util.imageselector.ImageSelectorActivity"
+            android:process=":listener" />
+        <!-- 会话列表 -->
+        <activity
+            android:name="cn.breaksky.rounds.publics.activity.CallListActivity"
+            android:process=":listener" />
+        <!-- 对话 -->
+        <activity
+            android:name="cn.breaksky.rounds.publics.activity.CallActivity"
+            android:process=":listener"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" />
+        <!-- 录音 -->
+        <activity
+            android:name="cn.breaksky.rounds.publics.activity.VoiceActivity"
+            android:process=":listener" />
+        <!-- ReciverActivity -->
+        <activity
+            android:name="cn.breaksky.rounds.publics.activity.ReciverActivity"
+            android:process=":listener"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <!-- 服务 -->
+        <service
+            android:name="cn.breaksky.rounds.publics.services.ListenerService"
+            android:enabled="true"
+            android:label="PublicRoundsListenerService"
+            android:process=":listener" >
+        </service>
+
+        <receiver
+            android:name="cn.breaksky.rounds.publics.services.ListenerServiceReciver"
+            android:exported="true"
+            android:label="PublicRoundsMainReciver"
+            android:process=":listener" >
+            <intent-filter>
+                <action android:name="cn.breaksky.rounds.publics.services_destory" />
+                <action android:name="cn.breaksky.rounds.publics.services.widget_video_alarm" />
+                <action android:name="cn.breaksky.rounds.publics.services.widget_voice_alarm" />
+                <action android:name="cn.breaksky.rounds.publics.services.widget_photo_alarm" />
+                <action android:name="cn.breaksky.rounds.publics.services.notification_event" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="cn.breaksky.rounds.publics.services.sysreciver.BootCompletedReciver"
+            android:exported="true"
+            android:label="BootCompletedReciver"
+            android:process=":listener" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="cn.breaksky.rounds.publics.services.sysreciver.ConnectivityActionReciver"
+            android:exported="true"
+            android:label="ConnectivityActionReciver"
+            android:process=":listener" >
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="cn.breaksky.rounds.publics.services.sysreciver.UserPresentReciver"
+            android:exported="true"
+            android:label="UserPresentReciver"
+            android:process=":listener" >
+            <intent-filter>
+                <action android:name="android.intent.action.USER_PRESENT" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="cn.breaksky.rounds.publics.services.sysreciver.MediaMountedReciver"
+            android:exported="true"
+            android:label="MediaMountedReciver"
+            android:process=":listener" >
+            <intent-filter>
+                <action android:name="android.intent.action.MEDIA_EJECT" />
+                <action android:name="android.intent.action.MEDIA_MOUNTED" />
+
+                <data android:scheme="file" />
+            </intent-filter>
+        </receiver>
+        <!-- 守护进程 -->
+        <service
+            android:name="cn.breaksky.rounds.publics.services.ServiceDaemon"
+            android:process=":daemon" >
+        </service>
+
+        <receiver
+            android:name="cn.breaksky.rounds.publics.services.ReciverDaemon"
+            android:process=":daemon" >
+        </receiver>
+
+        <!--  -->
+        <service
+            android:name="cn.breaksky.rounds.publics.services.ListenerJobService"
+            android:enabled="true"
+            android:label="PublicRoundsListenerJobService"
+            android:permission="android.permission.BIND_JOB_SERVICE"
+            android:process=":ListenerJobService" >
+        </service>
+
+        <meta-data
+            android:name="com.baidu.lbsapi.API_KEY"
+            android:value="@string/baidu_map_license_default" />
+
+        <service
+            android:name="com.baidu.location.f"
+            android:enabled="true"
+            android:process=":remote" >
+        </service>
+
+        <provider
+            android:name="com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:authorities="cn.breaksky.rounds.publics.com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>

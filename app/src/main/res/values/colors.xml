@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- App -->
+    <color name="item_normarl">#FFF5F5F6</color>
+    <color name="item_pressed">#FFececec</color>
+    <!-- <color name="bg">#FFF3EFE3</color> -->
+    <color name="green">#ff00ff00</color>
+    <color name="blue">#ff0000ff</color>
+    <color name="grey">#ff58616d</color>
+    <color name="grey1">#ff666666</color>
+    <color name="half_transparent">#b0000000</color>
+    <color name="pink">#FFEF9046</color>
+    <color name="window_bg">#ffE2E5EA</color>
+    <color name="refresh">#FF399789</color>
+    <color name="gold">#FFb89766</color>
+    <color name="text_grey1">#FF666666</color>
+    <color name="text_grey2">#FF999999</color>
+     <color name="mistyrose">#FFE4E1</color><!--浅玫瑰色 -->
+     <color name="firebrick">#B22222</color><!--火砖色 -->
+    <color name="blueviolet">#8A2BE2</color><!--紫罗兰蓝色 -->
+    <color name="deepskyblue">#00BFFF</color><!--深天蓝色 -->
+    <!-- LBS -->
+    <color name="distance">#FF66ccff</color>
+    <color name="distance2">#FFf39a00</color>
+
+    <!-- search -->
+    <color name="search_blue">#FF008AD2</color>
+    <color name="search_purple">#ff687198</color>
+    <color name="orange">#FFB838</color>
+    <color name="blue2">#66CCFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="list_line">#cccccc</color>
+    <color name="red">#FFFF0000</color>
+    <color name="white">#ffffffff</color>
+    <color name="black">#ff000000</color>
+    <color name="lightgrey">#ff888888</color>
+    <color name="list_bg_color">#ffd1d1d1</color>
+    <color name="list_select_bg">#FFb21111</color>
+    <color name="bg">#FFF3EFE3</color>
+    <color name="text_color">#FF4E4B44</color>
+    <color name="text_color2">#FF9A9688</color>
+    <color name="text_green">#FF69ac05</color>
+    <color name="text_orange">#FFFF6D23</color>
+
+    <!-- 图片选择 -->
+    <color name="image_selector_status_bar">@color/blue</color>
+    <color name="separation">#FFDCDCDC</color>
+    <color name="text_gray">#FF999999</color>
+    <color name="text_black">#FF333333</color>
+    <color name="dark_gray">#FF343535</color>
+    <color name="photo_mask">#88000000</color>
+    <color name="background">#181819</color>
+    
+    <!-- listview item被选中 -->
+    <color name="course_list_item_pressed">#FFFACD</color><!--柠檬绸色 -->
+    <color name="ivoryblack">#292421</color><!--象牙黑 -->
+    <color name="clodgray">#808A87</color><!--冷灰 -->
+</resources>
